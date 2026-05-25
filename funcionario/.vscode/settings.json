@@ -1,0 +1,5 @@
+{
+    "github.copilot.nextEditSuggestions.allowWhitespaceOnlyChanges": false,
+    "github.copilot.chat.reviewSelection.enabled": true,
+    "github.copilot.chat.reviewAgent.enabled": true
+}
